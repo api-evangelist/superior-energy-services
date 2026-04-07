@@ -1,7 +1,11 @@
 aid: superior-energy-services
-url: https://raw.githubusercontent.com/api-evangelist/superior-energy-services/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/superior-energy-services/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.superior-energy-services.com
+description: >-
+  Superior Energy Services is a leading provider of specialized oilfield services
+  and equipment for oil and gas exploration, production, and well services.
