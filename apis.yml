@@ -24,6 +24,8 @@ tags:
   - Industrial
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/superior-energy-services-domain-security.yml
   - type: Website
     url: https://superiorenergy.com
   - type: About
