@@ -1,7 +1,9 @@
 ---
 title: Superior Energy Acquires Abaco Drilling Technologies
 url: https://www.linkedin.com/posts/superior-energy-services_superiorenergy-acquisition-wellboretechnologies-activity-7419763990438002688-VXsI
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Superior Energy Services" press release artificial intelligence'
 position: 4
 source: serpapi-google

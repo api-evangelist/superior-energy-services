@@ -1,7 +1,9 @@
 ---
 title: Superior Energy Services Announces First Quarter 2024 ...
 url: https://energynow.com/2024/05/superior-energy-services-announces-first-quarter-2024-results-and-conference-call/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Superior Energy Services" press release artificial intelligence'
 position: 2
 source: serpapi-google

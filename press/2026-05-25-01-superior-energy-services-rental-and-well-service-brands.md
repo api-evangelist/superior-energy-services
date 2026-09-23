@@ -1,7 +1,9 @@
 ---
 title: Superior Energy Services - Rental & Well Service Brands
 url: https://superiorenergy.com/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Superior Energy Services" press release artificial intelligence'
 position: 1
 source: serpapi-google
