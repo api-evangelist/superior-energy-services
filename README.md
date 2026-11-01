@@ -66,34 +66,78 @@
 
 Superior Energy Services is a leading provider of specialized oilfield services and equipment for oil and gas exploration, production, and well services. The company operates a portfolio of global brands providing drilling equipment rentals, completion tools, well intervention, and production services across 47 countries. Superior leverages digital transformation technologies including SAP, Azure, and field data platforms to deliver integrated wellbore technology and wellsite solutions.
 
-**URL:** [APIs.yml](https://raw.githubusercontent.com/api-evangelist/superior-energy-services/refs/heads/main/apis.yml)
+**Areas:** Oil and Gas · Oilfield Services · Energy · Well Services · Drilling · Completion Tools · Well Intervention · Production Services · Industrial
 
-## Tags
+## Superior Energy Services on APIs.io
 
-- Oil And Gas
-- Oilfield Services
-- Energy
-- Well Services
-- Drilling
-- Completion Tools
-- Well Intervention
-- Production Services
-- Industrial
+Everything profiled for Superior Energy Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/superior-energy-services/](https://apis.io/providers/superior-energy-services/)** — or go straight to one of the APIs or properties below.
 
-## APIs
+### Published properties
 
-No public developer APIs have been documented for Superior Energy Services. The company uses enterprise technology stacks (SAP, Azure) internally and provides services through direct commercial engagement rather than a public API platform.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Common Properties
+#### Security (1)
 
-| Type | URL |
-|------|-----|
-| Website | [https://superiorenergy.com](https://superiorenergy.com) |
-| About | [https://superiorenergy.com/About/](https://superiorenergy.com/About/) |
-| Services | [https://superiorenergy.com/Services/](https://superiorenergy.com/Services/) |
-| LinkedIn | [https://www.linkedin.com/company/superior-energy-services](https://www.linkedin.com/company/superior-energy-services) |
+Authentication, trust centre, and vulnerability disclosure.
 
-## Maintainers
+- [Superior Energy Services Domain Security](https://apis.io/security/superior-energy-services/superior-energy-services-domain-security/)
 
-**FN:** API Evangelist
-**Email:** info@apievangelist.com
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://superiorenergy.com)
+- [Blog](https://www.superiorenergy.com/News/)
+
+## API Evangelist rating
+
+**Kin Score 4.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/superior-energy-services/](https://apis.io/providers/superior-energy-services/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Superior Energy Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/superior-energy-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
